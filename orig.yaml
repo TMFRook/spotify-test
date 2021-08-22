@@ -6,17 +6,17 @@ metadata:
     Backstage is an open-source developer portal that puts the developer experience first.
   links:
     - title: Website
-      url: http://localhost:8000
+      url: http://backstage.io
     - title: Documentation
-      url: http://localhost:8000/docs
+      url: https://backstage.io/docs
     - title: Storybook
-      url: http://localhost:8000/storybook
+      url: https://backstage.io/storybook
     - title: Discord Chat
-      url: http://localhost:8000/EBHEGzX
+      url: https://discord.com/invite/EBHEGzX
   annotations:
-    github.com/project-slug: tmfrook/spotify-test
+    github.com/project-slug: backstage/backstage
     backstage.io/techdocs-ref: dir:.
-    lighthouse.com/website-url: http://localhost:8000
+    lighthouse.com/website-url: https://backstage.io
 spec:
   type: library
   owner: CNCF
